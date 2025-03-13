@@ -3,6 +3,10 @@ title: "Midterm Report"
 author: "Cynthia Luo"
 output: html_document
 ---
+\
+Link to github repository for the project:
+
+<https://github.com/bluenut15/JSC370-project.git>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -418,8 +422,8 @@ To address these limitations in the final project, several improvements will be 
 
 ### Citations
 
-Our World in Data. (2024, October 7). Gini Coefficient. https://ourworldindata.org/grapher/economic-inequality-gini-index
+Our World in Data. (2024, October 7). Gini Coefficient. <https://ourworldindata.org/grapher/economic-inequality-gini-index>
 
-Our World in Data. (2025, January 24). GDP per capita. https://ourworldindata.org/grapher/gdp-per-capita-worldbank
+Our World in Data. (2025, January 24). GDP per capita. <https://ourworldindata.org/grapher/gdp-per-capita-worldbank>
 
-World Health Organization. (2025, n.d.). The Global Health Observatory. https://www.who.int/data/gho/info/gho-odata-api
+World Health Organization. (2025, n.d.). The Global Health Observatory. <https://www.who.int/data/gho/info/gho-odata-api>
