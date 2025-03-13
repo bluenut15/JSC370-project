@@ -206,7 +206,7 @@ Predictor significance will be evaluated using t-test p-values, with the thresho
 
 \
 
-The final merged dataset contains 267 observations on the variables year, suicide rates, GDP per capita, Gini index, and alcohol spending percentage.
+The final merged dataset contains 267 observations on 7 columns: year, suicide rates, GDP per capita, Gini index, alcohol spending percentage, country code, and country name. 
 
 \
 
