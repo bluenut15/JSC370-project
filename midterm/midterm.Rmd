@@ -179,7 +179,9 @@ This study aims to investigate two key research questions. Firstly, how have sui
 
 To explore these questions, I constructed a comprehensive dataset with a response (suicide rates) and predictors (year, annual GDP per capita of countries, annual Gini index of countries, annual alcohol spending percentage of countries) by merging four different data sources. The suicide rates dataset, retrieved from the World Health Organization (WHO) API, provides annual crude suicide rates per 100,000 population for countries from 2000 to 2021. The alcohol expenditure dataset, also obtained through the WHO API, contains information on alcohol spending as a percentage of total household expenditure across countries from 1990 to 2017 (“The Global Health Observatory”, 2025). Economic indicators were sourced from Our World in Data, which compiles data from the World Bank. The GDP per capita dataset includes annual per capita income in international dollars for various countries from 1990 to 2023 (“GDP per capita”, 2025), while the Gini index dataset provides yearly measures of income inequality for various countries from 1963 to 2023 (“Gini Coefficient”, 2024). By merging these four datasets based on country code and year, I created a unified dataset that allows for a more thorough analysis of the factors associated with suicide rates. Exploratory figures and plots, as well as regression analysis, were employed to investigate the research questions.
 
- \
+\
+
+\
 
 ## Methods
 
@@ -421,6 +423,8 @@ To address these limitations in the final project, several improvements will be 
 \
 
 ### Citations
+
+\
 
 Our World in Data. (2024, October 7). Gini Coefficient. <https://ourworldindata.org/grapher/economic-inequality-gini-index>
 
